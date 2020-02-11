@@ -1,5 +1,5 @@
 # Drum-Kit
 ## It is a musical instrument website with sounds effect in Javascript,HTML,CSS.
 
-![Screenshot (3)](https://user-images.githubusercontent.com/60787730/74208838-1279ae80-4c3a-11ea-9441-4f9062410e9f.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/60787730/74209578-3b4f7300-4c3d-11ea-9529-38360385efae.png)
 
